@@ -32,7 +32,7 @@
             </ul>
             </div>
         </div>
-        </nav>
+    </nav>
 <div class="rellax parallax-el" data-rellax-speed="4"></div>
 <div class="rellax text" data-rellax-speed="10"></div>
 <div class="rellax clouds" data-rellax-speed="8"></div>
