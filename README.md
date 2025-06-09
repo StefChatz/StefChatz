@@ -12,7 +12,7 @@ Welcome to my GitHub profile! I’m passionate about building open-source tools 
   - Benefit from advanced features like looping strategies and managed vaults for both high-leverage traders and passive yield seekers  
 
 - **[Delta-Mars](https://delta-mars.com)**  
-  An early-stage, decentralized interface — a weekend project I built for deploying fully delta-neutral strategies on the Neutron chain via Mars Protocol’s Credit Manager. Delta-Mars empowers you to:
+  An early-stage, decentralized interface - a weekend project I built for deploying fully delta-neutral strategies on the Neutron chain via Mars Protocol’s Credit Manager. Delta-Mars empowers you to:
   - Automatically balance lending positions with short perp trades to neutralize price exposure  
   - Capture combined yield from lending APYs, perp funding rates, and incentive campaigns  
   - Navigate market skew dynamics and optimize funding rate arbitrage  
