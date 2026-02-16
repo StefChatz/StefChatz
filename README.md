@@ -2,11 +2,11 @@
 
 Senior Full-Stack Engineer building production DeFi protocols and high-performance trading systems. I combine deep technical expertise (React, Next.js, Node.js, NestJS, PostgreSQL, Cosmos SDK) with a Master's in Finance to ship end-to-end products across the Web3 stack.
 
-Currently Co-Founder & Tech Lead at **Hedgeway**, Senior Full-Stack Developer at **Mars Protocol** (Delphi Digital) and **Amber Finance**.
+Currently Co-Founder & Tech Lead at **Hedgeway**, Senior Full-Stack Developer at **Mars Protocol** (Delphi Digital) and **Amber Finance**. I also create educational DeFi & finance content in Greek on YouTube, making sophisticated financial concepts accessible to everyday people.
 
 ---
 
-### Projects Designed, Developed and Led
+### 🔭 Projects Designed, Developed and Led
 
 - **[Hedgeway](https://hedgeway.xyz)**
   Delta-neutral yield protocol pairing DeFi yields with automated Hyperliquid hedges via senior/junior tranche vaults. I designed and built the full system:
@@ -15,7 +15,7 @@ Currently Co-Founder & Tech Lead at **Hedgeway**, Senior Full-Stack Developer at
   - Real-time PnL computation and risk management across on-chain and off-chain components
   - Hyperliquid and Pendle protocol connectors for automated cross-protocol strategy execution
 
-- **[Amber Finance](https://amberfi.io)** | [Documentation](https://docs.amberfi.io/)
+- **[Amber Finance](https://amberfi.io)** | [Docs](https://docs.amberfi.io/)
   Bitcoin DeFi yield platform on Neutron blockchain. I own the complete stack:
   - Leveraged looping strategies (up to 10x) with real-time health factor monitoring and liquidation protection
   - Cross-chain bridge supporting 50+ blockchain networks via Skip Protocol integration
@@ -38,7 +38,7 @@ Currently Co-Founder & Tech Lead at **Hedgeway**, Senior Full-Stack Developer at
 
 ---
 
-### Open Source
+### 🛠 Open Source
 
 - **[Ares Terminal](https://github.com/StefChatz/ares)** | [aresfi.xyz](https://aresfi.xyz)
   Production-ready perpetuals trading terminal for DeFi protocols. Originally built as a standalone perps product for Mars Protocol, open-sourced under MIT license so teams can ship professional trading interfaces in days, not months.
@@ -60,9 +60,15 @@ Currently Co-Founder & Tech Lead at **Hedgeway**, Senior Full-Stack Developer at
   - Real-time execution engine with circuit breakers, in-flight deduplication, and configurable daily loss limits
   - Next.js dashboard with live opportunity feed, P&L tracking, and position management
 
+- **DeFi Yield Aggregator**
+  Multi-chain backend platform for yield strategy discovery and computation:
+  - NestJS backend with 15+ services: multi-source data ingestion (DeFiLlama, Pendle), leveraged strategy computation, risk scoring
+  - PostgreSQL + TimescaleDB schema with Redis caching, Swagger-documented REST API, scheduled job processing
+  - Docker-based infrastructure supporting Ethereum, Arbitrum, Base, Optimism, and Polygon
+
 ---
 
-### Projects Worked On as Core Contributor
+### 🤝 Projects Worked On as Core Contributor
 
 - **[Mars Protocol](https://app.marsprotocol.io)**
   Sole engineer owning the full stack of Mars Protocol's Perpetual Futures trading platform (Delphi Digital):
@@ -73,25 +79,28 @@ Currently Co-Founder & Tech Lead at **Hedgeway**, Senior Full-Stack Developer at
 
 ---
 
-### Tech Stack
+### ⚡ Tech Stack
 
 ```
-Frontend      React, Next.js, Vite, TypeScript, Redux, Zustand, React Native, TailwindCSS, shadcn/ui
-Build         Turborepo, pnpm, Bun, Vitest, GitHub Actions
-Backend       Node.js, NestJS, Express, REST APIs, WebSocket Pipelines, GraphQL
-Databases     PostgreSQL, TimescaleDB, Redis, Docker
-Web3          Solidity, ethers.js, viem, wagmi, Cosmos SDK, CosmWasm, 50+ chain integrations
+Frontend      React · Next.js · Vite · TypeScript · Redux · Zustand · React Native · TailwindCSS · shadcn/ui
+Build         Turborepo · pnpm · Bun · Vitest · GitHub Actions
+Backend       Node.js · NestJS · Express · REST APIs · WebSocket Pipelines · GraphQL
+Databases     PostgreSQL · TimescaleDB · Redis · Docker
+Web3          Solidity · ethers.js · viem · wagmi · Cosmos SDK · CosmWasm · 50+ chain integrations
 ```
 
 ---
 
-### Education
+### 🎓 Education
 
 **MSc Finance** - Alba Graduate Business School (2025)
 **BSc Computer Science** - University of Surrey (2020)
 
 ---
 
-### Connect
+### 📫 Connect
 
-[LinkedIn](https://linkedin.com/in/stefanos-chatzakis) · [Website](https://stefchatz.com) · chatzakis.stef@gmail.com
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/stefanos-chatzakis)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat&logo=telegram&logoColor=white)](https://t.me/Monkmansteve)
+[![Website](https://img.shields.io/badge/Website-000000?style=flat&logo=safari&logoColor=white)](https://stefchatz.com)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:chatzakis.stef@gmail.com)
